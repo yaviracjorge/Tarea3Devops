@@ -61,7 +61,7 @@ def inicio():
             <h1>¡Bienvenido!</h1>
             <p>Esta página fue creada con Python y Flask.</p>
             <p>Modificacion desde la Rama rama-jorgeDos</p>
-            <a href="#" class="boton">Comenzar</a>
+            <a href="#" class="boton">Generacion de Problema desde la Rama rama-jorgeDos</a>
         </div>
     </body>
     </html>
