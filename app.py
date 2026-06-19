@@ -59,6 +59,7 @@ def inicio():
     <body>
         <div class="contenedor">
             <h1>¡Bienvenido!</h1>
+            <p>Modificacion desde la rama rama-jorge</p>
             <p>Esta página fue creada con Python y Flask.</p>
             <a href="#" class="boton">Comenzar</a>
         </div>
